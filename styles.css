@@ -4,12 +4,18 @@ body{
     color: #333333;
     margin: 0;
     padding: 0;
+    line-height: 1.5em;
+}
+header{
+    background-color: #333333;
 }
 
-h1{ background-color: #333333;
+h1{ 
      color: #eee;
     font-size: 28px;
     text-align: center;
+    padding: 20px 0;
+    
 }
    
 h2{
@@ -24,6 +30,7 @@ a{
 
 .container{
     margin:0 auto;
+    width: 1024px;
   
 }
 
@@ -46,7 +53,4 @@ a{
 
 #contact-info{
  width:30%;
- margin: 0;
- line-height: 1.5em;
-
  }
